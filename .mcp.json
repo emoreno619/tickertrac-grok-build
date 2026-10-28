@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tickertrac": {
+      "type": "http",
+      "url": "https://api.tickertrac.com/mcp"
+    }
+  }
+}

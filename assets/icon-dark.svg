@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>TickerTrac mark</title>
+  <path
+    d="M18 9h-8v46h8M46 9h8v46h-8"
+    stroke="#e7e9ee"
+    stroke-width="5.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M19 21h18M28 21v25M28 33h15M37 33v13"
+    stroke="#e7e9ee"
+    stroke-width="4.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="19" cy="21" r="4.25" fill="#e7e9ee" />
+  <circle cx="43" cy="33" r="4.25" fill="#e7e9ee" />
+</svg>
